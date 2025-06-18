@@ -1,5 +1,5 @@
 # Getting Started
-Install the dependencies and run the project
+Install the dependencies and run the project obviously
 ```
 npm install
 npm start
@@ -16,4 +16,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+Happy Coding today!
